@@ -20,4 +20,4 @@ There are a number of steps that can be taken to avoid Rowhammer attacks, includ
 * Avoiding memory access patterns that are known to trigger Rowhammer attacks. There are a number of memory access patterns that are known to trigger Rowhammer attacks. Avoiding these patterns can help to prevent Rowhammer attacks.
 It is important to note that there is no silver bullet for preventing Rowhammer attacks. However, by taking the steps outlined above, it is possible to significantly reduce the risk of being exploited by a Rowhammer attack.
 
-**It is an education project, and the author is not responsible for any malicious use of third-party**
+**It is an educational project, and the author is not responsible for any malicious use of third-party**
